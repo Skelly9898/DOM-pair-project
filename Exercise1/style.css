@@ -1,0 +1,10 @@
+.cookie {
+    width: 25%;
+}
+
+button {
+    background-image: url(Cookie.png);
+    background-size: 100%;
+    width: 250px;
+    height: 250px;
+}
